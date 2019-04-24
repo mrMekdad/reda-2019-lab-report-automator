@@ -1,3 +1,4 @@
 sample	status	group
 lab-report-automator-01	ready	control
 lab-report-automator-02	review	case
+lab-report-automator-03	queued	validation
