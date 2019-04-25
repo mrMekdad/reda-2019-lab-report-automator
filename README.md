@@ -38,3 +38,7 @@ The code and docs are kept readable, explicit, and signed by Red@.
 ## Workflow
 
 Red@ iterates in short bursts, then leaves gaps for review and correction.
+
+## Quality
+
+The repository carries smoke checks, parser checks, and explicit notes for manual review.
